@@ -1,0 +1,13 @@
+/logic
+
+get player choice
+get computer choice
+compare choices
+declare winner/
+
+parts
+a player input box that saves the player`choice`
+a computer item box that offers the choices for the function to choose from
+a function that picks an item out of the box for the computer randomly and saves it on the choice box for the computer
+a function that plays a round of the game and announces the winner 
+a function that plays the game for 5 rounds and announces the winner of all 5 rounds
